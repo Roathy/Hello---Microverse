@@ -1,72 +1,191 @@
-# Hello---Microverse
-Welcome to the README.md file for "Hello-Microverse" - a simple HTML and CSS website.
+<a name="readme-top"></a>
 
-## About the Project
-The Hello---Microverse project is a simple website.
+<!-- TABLE OF CONTENTS -->
 
-## Built With
-The Hello---Microverse project is built using the following technologies:
-HTML
-CSS
+# 📗 Table of Contents
 
-## Key Features
-The Hello---Microverse project comes with the following features:
-### -.html file that includes a header with the text "Hello Microverse!".
-### -.css file that includes one class with styles for the header .
-### -test.md file.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello---Microverse] <a name="about-project"></a>
+
+**[Hello---Microverse]** is a project to learn and practice the proper setup for repositories and projects
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML, CSS</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Use of linters]**
+- **[Github & Git]**
+- **[README.md file]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 
-## Live Demo
-N/A
+- [No Live Demo Required](https://google.com)
 
-## Getting Started
-To get started with The Hello---Microverse project, follow these steps:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Node installed in computer
 
 ### Setup
-Clone the repository from GitHub:
 
-bash
-Copy code
-git clone https://github.com/Roathy/Hello---Microverse
-Prerequisites
-You will need a web browser to view the website.
+Clone this repository to your desired folder:
 
-## Install
-No installation is required.
+```sh
+  cd desired-folder
+  git https://github.com/Roathy/Hello---Microverse.git
+```
 
-## Usage
-Open the index.html file in your web browser to view the website.
+### Install
 
-## Run tests
-No tests are currently implemented.
+Install this project with:
 
-## Deployment
-The Hello---Microverse project can be deployed using any web hosting service.
+- No installation required
 
-## Authors
-The Hello---Microverse project was created by Julio Eduardo Vergara Martínez.
+### Usage
 
-## Future Features
-The following features may be added to The Hello---Microverse project in the future:
-### -Custom fonts
-### -Custom colors
-### -Custom animations
-### -Responsive design
+To run the project, execute the following command:
 
-## Contributing
-Contributions to The Hello-Microverse project are always welcome. To contribute, follow these steps:
+Open index.html in browser
 
-### Fork the project.
-Create a new branch.
-Make your changes and commit them.
-Push to your branch.
-Submit a pull request.
+### Run tests
 
-## Show Your Support
-If you like The Hello---Microverse project, please give it a star on GitHub.
+To run tests, run the following command:
 
-## Acknowledgements
-The Hello---Microverse project was inspired by the Microverse program.
+- No testing implement yet
 
-## License
-The Portfolio project is released under the ISC license
+### Deployment
+
+You can deploy this project using:
+
+GitHub can be used to deploy website. For more information about publishing sources, see "About GitHub pages".
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@Roathy](https://github.com/Roathy)
+- Twitter: n/a
+- LinkedIn: [LinkedIn](https://linkedin.com/in/julio-vergara-roathy)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Desktop version]**
+- [ ] **[Details section]**
+- [ ] **[Responsiveness ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Roathy/Hello---Microverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse team.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
